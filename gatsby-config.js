@@ -9,11 +9,13 @@ module.exports = {
             `gatsby-plugin-typography` /* Include Typography.js in our pages */,
             `gatsby-plugin-catch-links`,
             `gatsby-transformer-remark`,
+            `gatsby-plugin-no-sourcemaps`,
             {
               resolve: `gatsby-source-filesystem`,
               options: {
                 path: `${__dirname}/src/pages/blogs`,
                 name: 'pages',
               },
-            }],
+            },
+          `gatsby-plugin-netlify`, /* make sure to put last in the array */],
 }
