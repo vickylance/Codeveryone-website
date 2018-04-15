@@ -5,4 +5,4 @@ title: "My First Gatsby Post"
 author: "Brad Traversy"
 ---
 
-This is my very post in Gatsby
+This is my very post in Gatsby. YOLO
