@@ -5,7 +5,7 @@
   "author": "Vignesh S <codeveryone@outlook.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
-    "gatsby": "^1.9.247",
+    "gatsby": "^1.9.251",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-catch-links": "^1.0.19",
     "gatsby-plugin-manifest": "^1.0.19",
@@ -21,7 +21,7 @@
     "gatsby-remark-katex": "^1.0.13",
     "gatsby-remark-prismjs": "^1.2.24",
     "gatsby-transformer-remark": "^1.7.40",
-    "gatsby-source-filesystem": "1.5.30",
+    "gatsby-source-filesystem": "^1.5.32",
     "react-helmet": "^5.2.0",
     "styled-components": "^3.2.5"
   },

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Codeveryone',
   },
   plugins: [`gatsby-plugin-react-helmet` /* To add seo tags to the head tag */,
             `gatsby-plugin-react-next` /* To make gatsby use React 16 instead of 15 which it uses by default */,
